@@ -9,7 +9,7 @@ Specializing in the intersection of Computer Vision, Robotics, and Embedded Syst
 
 - 📍 Based in Bangkok, Thailand
 - 📧 [Email Me](mailto:bossthomya@gmail.com)
-- 💼 [Portfolio](https://your-portfolio-link.com)
+- 💼 [Portfolio](https://wongsapat-thomya.vercel.app/)
 
 ---
 
@@ -46,16 +46,3 @@ Specializing in the intersection of Computer Vision, Robotics, and Embedded Syst
 - Built a reading test interface for Grade 1 students.
 
 ---
-
-### 🎓 Education
-
-- **B.Eng. in Biomedical Engineering** | Mahidol University
-  - *First Class Honors (GPA 3.73) (2021 - 2025)*
-- **Smart Global Science Major** | Satit Prasarnmit Demonstration School
-  - *GPA GPA 3.92 (2019 - 2021)*
-
----
-
-### 🌐 Languages
-- **Thai**: Native
-- **English**: Professional (C1)
